@@ -114,9 +114,10 @@ analytics:
 author:
   name             : "Emmanuela van Versendaal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Agronomy PhD student"
+  bio              : "Agronomy Ph.D. Student"
   location         : "United States"
-  email            : #"evanversendaal@ksu.edu"
+  email            : "evanversendaal@ksu.edu"
+  linkedin         : "https://www.linkedin.com/in/emmanuelavanversendaal/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
