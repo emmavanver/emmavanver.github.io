@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Emmanuela van Versendaal"
 description              : "Agronomy Ph.D. Student"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "emmavanver.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "emmavanver/emmavanver.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -116,21 +116,13 @@ author:
   name             : "Emmanuela van Versendaal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Agronomy PhD student"
-  location         : "Somewhere"
-  email            :
+  location         : "United States"
+  email            : "evanversendaal@ksu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        url: "evanversendaal@ksu.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-       url: "https://x.com/emmavanver"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/emmavanver/"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/emmanuelavanversendaal/"
+
 
 # Site Footer
 footer:
